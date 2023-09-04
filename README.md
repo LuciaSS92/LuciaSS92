@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Lucia</h1>
 <h3 align="center">Fullstack web development</h3>
 
-- 🔭 I’m currently working on **finding my first job in the sector**
+- 🔭 I’m currently working on **implementing web accessibility and sustainable web design**
 
 - 🌱 I’m currently learning **more about React**
 
@@ -26,4 +26,3 @@
 <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luciass92&show_icons=true&locale=en&layout=compact" alt="luciass92" /></p>
